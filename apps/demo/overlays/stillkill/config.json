@@ -1,0 +1,11 @@
+{
+  "appName": "demo",
+  "userGivenName": "demo",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/demo/overlays/stillkill",
+  "srcRepoURL": "https://github.com/debuggerboy/argocd-autopilot-ko2-server.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
