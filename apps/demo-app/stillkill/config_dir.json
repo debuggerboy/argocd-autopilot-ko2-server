@@ -1,0 +1,13 @@
+{
+  "appName": "demo-app",
+  "userGivenName": "demo-app",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/debuggerboy/kind-nginx-ingress.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
