@@ -1,0 +1,11 @@
+{
+  "appName": "controller",
+  "userGivenName": "controller",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/controller/overlays/ingress-nginx",
+  "srcRepoURL": "https://github.com/debuggerboy/argocd-autopilot-ko2-server.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
